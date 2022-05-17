@@ -1,0 +1,267 @@
+demonstration 1: standard use case
+creating filter with item_count = 100 fp_prob = 0.2
+bitarray size: 334
+hash func count: 2
+current bitarray:
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+adding val: 1
+current bitarray:
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+adding val: 2
+adding val: 3
+adding val: 4
+adding val: 5
+adding val: 6
+adding val: 7
+adding val: 8
+adding val: 9
+adding val: 10
+adding val: 11
+adding val: 12
+adding val: 13
+adding val: 14
+adding val: 15
+adding val: 16
+adding val: 17
+adding val: 18
+adding val: 19
+adding val: 20
+adding val: 21
+adding val: 22
+adding val: 23
+adding val: 24
+adding val: 25
+adding val: 26
+adding val: 27
+adding val: 28
+adding val: 29
+adding val: 30
+adding val: 31
+adding val: 32
+adding val: 33
+adding val: 34
+adding val: 35
+adding val: 36
+adding val: 37
+adding val: 38
+adding val: 39
+adding val: 40
+adding val: 41
+adding val: 42
+adding val: 43
+adding val: 44
+adding val: 45
+adding val: 46
+adding val: 47
+adding val: 48
+adding val: 49
+adding val: 50
+adding val: 51
+adding val: 52
+adding val: 53
+adding val: 54
+adding val: 55
+adding val: 56
+adding val: 57
+adding val: 58
+adding val: 59
+adding val: 60
+adding val: 61
+adding val: 62
+adding val: 63
+adding val: 64
+adding val: 65
+adding val: 66
+adding val: 67
+adding val: 68
+adding val: 69
+adding val: 70
+adding val: 71
+adding val: 72
+adding val: 73
+adding val: 74
+adding val: 75
+adding val: 76
+adding val: 77
+adding val: 78
+adding val: 79
+adding val: 80
+adding val: 81
+adding val: 82
+adding val: 83
+adding val: 84
+adding val: 85
+adding val: 86
+adding val: 87
+adding val: 88
+adding val: 89
+adding val: 90
+adding val: 91
+adding val: 92
+adding val: 93
+adding val: 94
+adding val: 95
+adding val: 96
+adding val: 97
+adding val: 98
+adding val: 99
+current bitarray:
+0000101101100011101001101110100001010011110111101100111111010001000111100011100010111000111011010101110100101000010101110100000010110111110111001001000100110100100000000010101100101010010011010000001001001110011001000110110001001101110000110000101010110111001100000010100000111001011100000011000100001011100011000001000100101100001000
+checking val: 1 True
+checking val: 2 True
+checking val: 3 True
+checking val: 4 True
+checking val: 5 True
+checking val: 6 True
+checking val: 7 True
+checking val: 8 True
+checking val: 9 True
+checking val: 10 True
+checking val: 11 True
+checking val: 12 True
+checking val: 13 True
+checking val: 14 True
+checking val: 15 True
+checking val: 16 True
+checking val: 17 True
+checking val: 18 True
+checking val: 19 True
+checking val: 20 True
+checking val: 21 True
+checking val: 22 True
+checking val: 23 True
+checking val: 24 True
+checking val: 25 True
+checking val: 26 True
+checking val: 27 True
+checking val: 28 True
+checking val: 29 True
+checking val: 30 True
+checking val: 31 True
+checking val: 32 True
+checking val: 33 True
+checking val: 34 True
+checking val: 35 True
+checking val: 36 True
+checking val: 37 True
+checking val: 38 True
+checking val: 39 True
+checking val: 40 True
+checking val: 41 True
+checking val: 42 True
+checking val: 43 True
+checking val: 44 True
+checking val: 45 True
+checking val: 46 True
+checking val: 47 True
+checking val: 48 True
+checking val: 49 True
+checking val: 50 True
+checking val: 51 True
+checking val: 52 True
+checking val: 53 True
+checking val: 54 True
+checking val: 55 True
+checking val: 56 True
+checking val: 57 True
+checking val: 58 True
+checking val: 59 True
+checking val: 60 True
+checking val: 61 True
+checking val: 62 True
+checking val: 63 True
+checking val: 64 True
+checking val: 65 True
+checking val: 66 True
+checking val: 67 True
+checking val: 68 True
+checking val: 69 True
+checking val: 70 True
+checking val: 71 True
+checking val: 72 True
+checking val: 73 True
+checking val: 74 True
+checking val: 75 True
+checking val: 76 True
+checking val: 77 True
+checking val: 78 True
+checking val: 79 True
+checking val: 80 True
+checking val: 81 True
+checking val: 82 True
+checking val: 83 True
+checking val: 84 True
+checking val: 85 True
+checking val: 86 True
+checking val: 87 True
+checking val: 88 True
+checking val: 89 True
+checking val: 90 True
+checking val: 91 True
+checking val: 92 True
+checking val: 93 True
+checking val: 94 True
+checking val: 95 True
+checking val: 96 True
+checking val: 97 True
+checking val: 98 True
+checking val: 99 True
+checking val: 100 True
+checking val: 101 False
+checking val: 102 False
+checking val: 103 False
+checking val: 104 False
+checking val: 105 False
+checking val: 106 False
+checking val: 107 False
+checking val: 108 False
+checking val: 109 False
+checking val: 110 False
+checking val: 111 True
+checking val: 112 False
+checking val: 113 False
+checking val: 114 False
+checking val: 115 False
+checking val: 116 False
+checking val: 117 False
+checking val: 118 True
+checking val: 119 False
+checking val: 120 False
+checking val: 121 False
+checking val: 122 False
+checking val: 123 False
+checking val: 124 False
+   ---
+demonstration 2: exceeding item count
+creating filter with item_count = 100000 fp_prob = 0.001
+bitarray size: 1437758
+hash func count: 9
+fp_rate with bloom filter at 0% capacity
+fp_rate: 0.0
+fp_rate with bloom filter at 50% capacity
+fp_rate: 8e-06
+fp_rate with bloom filter at 100% capacity
+fp_rate: 0.000995
+fp_rate with bloom filter at 200% capacity
+fp_rate: 0.048448
+   ---
+demonstration 3: very small and very large filters
+creating filter with item_count = 1 fp_prob = 0.001
+bitarray size: 14
+hash func count: 9
+adding val: 10
+current bitarray:
+01110010011000
+checking val: 8 False
+checking val: 9 False
+checking val: 10 True
+checking val: 11 False
+checking val: 12 False
+fp_rate with bloom filter at 100% capacity
+fp_rate: 0.000503
+
+creating filter with item_count = 999999999 fp_prob = 0.001
+bitarray size: 14377587551
+hash func count: 9
+fp_rate with bloom filter at 1% capacity
+fp_rate: 0.0
